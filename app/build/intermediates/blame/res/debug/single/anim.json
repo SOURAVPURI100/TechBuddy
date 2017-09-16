@@ -1,43 +1,43 @@
 [
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/shake.xml",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/anim/shake.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/cycle.xml",
+        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/shake.xml",
+        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/anim/shake.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/anim/abc_slide_in_top.xml"
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/anim/abc_fade_out.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/right_out.xml",
+        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/anim/right_out.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/cycle.xml",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/anim/cycle.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/anim/abc_popup_enter.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/right_out.xml",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/anim/right_out.xml"
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/anim/abc_slide_in_bottom.xml"
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/anim/abc_slide_out_top.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/right_enter.xml",
@@ -45,11 +45,75 @@
     },
     {
         "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/anim/abc_popup_exit.xml"
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/left_enter.xml",
         "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/anim/left_enter.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/shake.xml",
+        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/anim/shake.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/left_out.xml",
+        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/anim/left_out.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/cycle.xml",
+        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/right_out.xml",
+        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/anim/right_out.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/left_enter.xml",
+        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/anim/left_enter.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/left_out.xml",
@@ -57,10 +121,10 @@
     },
     {
         "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/anim/abc_slide_out_bottom.xml"
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/anim/abc_fade_in.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/anim/right_enter.xml",
+        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/anim/right_enter.xml"
     }
 ]

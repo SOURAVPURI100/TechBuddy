@@ -1,76 +1,103 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:3:5-49
-		INJECTED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
-		INJECTED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
-		INJECTED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
-		INJECTED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:6:22-64
 uses-sdk
-ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:24.2.1] /home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/sourav/.android/build-cache/10f1d1cd8f493b3aa70a507da7ce600324d4fca6/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/sourav/.android/build-cache/afb62df0b3d80e098955239b0d3bd218228702c6/output/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:24.0.0] /home/sourav/.android/build-cache/99485f0002487674474624320920b5da1e80a6a9/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:24.2.1] /home/sourav/.android/build-cache/fdbdda543b8c9bab7640f634667e576a848e0916/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.1] /home/sourav/.android/build-cache/e6c71c96d5e5d4c2887d48b75367d6619d5c3452/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] /home/sourav/.android/build-cache/d48f778284ab073732cf394ca1a542ba5dea7468/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:24.2.1] /home/sourav/.android/build-cache/f51fb265091878864ecc97414b7ec9c721612628/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:24.2.1] /home/sourav/.android/build-cache/ff4bc1b6cd1b69a50de456d608bf8755f1133957/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:24.2.1] /home/sourav/.android/build-cache/0d896767dd2111de6ce4d2c54f841d43008a6808/output/AndroidManifest.xml:21:5-23:58
+ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:cardview-v7:24.0.0] /home/sourav/.android/build-cache/3dc93ad347f8d5f615df4b9ea01e6fff932d1ad3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] /home/sourav/.android/build-cache/af10a2758d07d2b363f5cf177c81d7907b94eab1/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /home/sourav/.android/build-cache/afde25ca06d55fae99ead0fa256e1e9a2cb34877/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/sourav/.android/build-cache/7fd254422ef1f2ebee35ab77eb054b0a82e4672d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/sourav/.android/build-cache/83d5c3ee97abff569671486151dc86d3111f8792/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/sourav/.android/build-cache/89698adf8385d1d34abcfd4ccfb0c7a5199bb36a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/sourav/.android/build-cache/dd394746fd0d807a38677348d0174af45316aeb1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/sourav/.android/build-cache/7ecf386a9250d0600b80da4dcdce346f31bb40d1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/sourav/.android/build-cache/c9c5d397a298b5ffb230189bca898548176fe909/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /home/sourav/.android/build-cache/d08b39a8d05bc640b4dd6883e98a82a80147e270/output/AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/sourav/.android/build-cache/9015e9fadc317894d4de12e27a814a67f32dac4a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.5.1] /home/sourav/.android/build-cache/d332776fa6e658b6555b65b2f85bb39e99f3c809/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.3.0] /home/sourav/.android/build-cache/4136021566f2ee8914c0eb14980c7d7f030e2c4f/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
-		INJECTED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:8:9-35
-		INJECTED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
-		INJECTED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:11:5-25:19
-MERGED from [com.android.support:appcompat-v7:24.2.1] /home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/sourav/.android/build-cache/10f1d1cd8f493b3aa70a507da7ce600324d4fca6/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/sourav/.android/build-cache/afb62df0b3d80e098955239b0d3bd218228702c6/output/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.2.1] /home/sourav/.android/build-cache/fdbdda543b8c9bab7640f634667e576a848e0916/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] /home/sourav/.android/build-cache/e6c71c96d5e5d4c2887d48b75367d6619d5c3452/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] /home/sourav/.android/build-cache/d48f778284ab073732cf394ca1a542ba5dea7468/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] /home/sourav/.android/build-cache/f51fb265091878864ecc97414b7ec9c721612628/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] /home/sourav/.android/build-cache/ff4bc1b6cd1b69a50de456d608bf8755f1133957/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] /home/sourav/.android/build-cache/0d896767dd2111de6ce4d2c54f841d43008a6808/output/AndroidManifest.xml:25:5-20
+ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:11:5-25:19
 MERGED from [com.android.support:cardview-v7:24.0.0] /home/sourav/.android/build-cache/3dc93ad347f8d5f615df4b9ea01e6fff932d1ad3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/sourav/.android/build-cache/af10a2758d07d2b363f5cf177c81d7907b94eab1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/sourav/.android/build-cache/afde25ca06d55fae99ead0fa256e1e9a2cb34877/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/sourav/.android/build-cache/7fd254422ef1f2ebee35ab77eb054b0a82e4672d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/sourav/.android/build-cache/83d5c3ee97abff569671486151dc86d3111f8792/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/sourav/.android/build-cache/89698adf8385d1d34abcfd4ccfb0c7a5199bb36a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/sourav/.android/build-cache/dd394746fd0d807a38677348d0174af45316aeb1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/sourav/.android/build-cache/c9c5d397a298b5ffb230189bca898548176fe909/output/AndroidManifest.xml:29:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/sourav/.android/build-cache/9015e9fadc317894d4de12e27a814a67f32dac4a/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/sourav/.android/build-cache/4136021566f2ee8914c0eb14980c7d7f030e2c4f/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from [com.github.pchmn:MaterialChipsInput:1.0.8] /home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/AndroidManifest.xml:14:9-35
 	android:allowBackup
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:12:9-35
 	android:icon
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:13:9-45
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:13:9-45
 	android:theme
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:15:9-40
-activity#com.login_signup_screendesign_demo.MainActivity
-ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:16:9-24:20
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.techBuddy.MainActivity
+ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:16:9-24:20
 	android:label
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:18:13-45
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:18:13-45
 	android:name
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:17:13-75
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:17:13-54
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:19:13-23:29
+ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /home/sourav/Documents/GitHub/TechBuddy/app/src/main/AndroidManifest.xml:22:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] /home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/sourav/.android/build-cache/af10a2758d07d2b363f5cf177c81d7907b94eab1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/sourav/.android/build-cache/afde25ca06d55fae99ead0fa256e1e9a2cb34877/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/sourav/.android/build-cache/7fd254422ef1f2ebee35ab77eb054b0a82e4672d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/sourav/.android/build-cache/83d5c3ee97abff569671486151dc86d3111f8792/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/sourav/.android/build-cache/89698adf8385d1d34abcfd4ccfb0c7a5199bb36a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/sourav/.android/build-cache/dd394746fd0d807a38677348d0174af45316aeb1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/sourav/.android/build-cache/7ecf386a9250d0600b80da4dcdce346f31bb40d1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/sourav/.android/build-cache/c9c5d397a298b5ffb230189bca898548176fe909/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/sourav/.android/build-cache/4136021566f2ee8914c0eb14980c7d7f030e2c4f/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/AndroidManifest.xml:26:9-47

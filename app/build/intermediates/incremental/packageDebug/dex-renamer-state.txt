@@ -1,7 +1,7 @@
-#Sat Sep 16 15:21:49 EDT 2017
-base.0=C\:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0622b3a3e98ffdcb5e780c9ec2f5f7f5ab2f1c00
+#Sun Sep 17 03:48:06 EDT 2017
+base.0=/Users/yashjain/Desktop/TechBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6751f12d71323edd389340987b73205f43c942cb
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d96137df8afe98b89d38cc387e192dad29bb3bd1\\classes.dex
-base.1=C\:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d96137df8afe98b89d38cc387e192dad29bb3bd1
-file.0=C\:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0622b3a3e98ffdcb5e780c9ec2f5f7f5ab2f1c00\\classes.dex
+file.1=/Users/yashjain/Desktop/TechBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08245438201e05b28d97fca560af11a32a62f58d/classes.dex
+base.1=/Users/yashjain/Desktop/TechBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08245438201e05b28d97fca560af11a32a62f58d
+file.0=/Users/yashjain/Desktop/TechBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6751f12d71323edd389340987b73205f43c942cb/classes.dex

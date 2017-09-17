@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "com.techBuddy";
+
+message User {
+    string email = 1;
+    string name = 2;
+    string password = 3;
+    string image = 4;
+    string phone = 5;
+    repeated string skills = 6;
+}

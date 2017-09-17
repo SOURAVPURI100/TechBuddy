@@ -8,31 +8,31 @@ package com.google.android.flexbox;
 
 public final class R {
     public static final class attr {
-        public static final int alignContent = 0x7f0100fd;
-        public static final int alignItems = 0x7f0100fc;
-        public static final int dividerDrawable = 0x7f0100fe;
-        public static final int dividerDrawableHorizontal = 0x7f0100ff;
-        public static final int dividerDrawableVertical = 0x7f010100;
-        public static final int flexDirection = 0x7f0100f9;
-        public static final int flexWrap = 0x7f0100fa;
-        public static final int justifyContent = 0x7f0100fb;
-        public static final int layoutManager = 0x7f010128;
-        public static final int layout_alignSelf = 0x7f010108;
-        public static final int layout_flexBasisPercent = 0x7f010107;
-        public static final int layout_flexGrow = 0x7f010105;
-        public static final int layout_flexShrink = 0x7f010106;
-        public static final int layout_maxHeight = 0x7f01010c;
-        public static final int layout_maxWidth = 0x7f01010b;
-        public static final int layout_minHeight = 0x7f01010a;
-        public static final int layout_minWidth = 0x7f010109;
-        public static final int layout_order = 0x7f010104;
-        public static final int layout_wrapBefore = 0x7f01010d;
-        public static final int reverseLayout = 0x7f01012a;
-        public static final int showDivider = 0x7f010101;
-        public static final int showDividerHorizontal = 0x7f010102;
-        public static final int showDividerVertical = 0x7f010103;
-        public static final int spanCount = 0x7f010129;
-        public static final int stackFromEnd = 0x7f01012b;
+        public static final int alignContent = 0x7f010129;
+        public static final int alignItems = 0x7f010128;
+        public static final int dividerDrawable = 0x7f01012a;
+        public static final int dividerDrawableHorizontal = 0x7f01012b;
+        public static final int dividerDrawableVertical = 0x7f01012c;
+        public static final int flexDirection = 0x7f010125;
+        public static final int flexWrap = 0x7f010126;
+        public static final int justifyContent = 0x7f010127;
+        public static final int layoutManager = 0x7f010154;
+        public static final int layout_alignSelf = 0x7f010134;
+        public static final int layout_flexBasisPercent = 0x7f010133;
+        public static final int layout_flexGrow = 0x7f010131;
+        public static final int layout_flexShrink = 0x7f010132;
+        public static final int layout_maxHeight = 0x7f010138;
+        public static final int layout_maxWidth = 0x7f010137;
+        public static final int layout_minHeight = 0x7f010136;
+        public static final int layout_minWidth = 0x7f010135;
+        public static final int layout_order = 0x7f010130;
+        public static final int layout_wrapBefore = 0x7f010139;
+        public static final int reverseLayout = 0x7f010156;
+        public static final int showDivider = 0x7f01012d;
+        public static final int showDividerHorizontal = 0x7f01012e;
+        public static final int showDividerVertical = 0x7f01012f;
+        public static final int spanCount = 0x7f010155;
+        public static final int stackFromEnd = 0x7f010157;
     }
     public static final class dimen {
         public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f060084;
@@ -40,30 +40,30 @@ public final class R {
         public static final int item_touch_helper_swipe_escape_velocity = 0x7f060086;
     }
     public static final class id {
-        public static final int auto = 0x7f0c0021;
-        public static final int baseline = 0x7f0c003e;
-        public static final int beginning = 0x7f0c0040;
-        public static final int center = 0x7f0c0023;
-        public static final int column = 0x7f0c0033;
-        public static final int column_reverse = 0x7f0c0034;
-        public static final int end = 0x7f0c0026;
-        public static final int flex_end = 0x7f0c003a;
-        public static final int flex_start = 0x7f0c003b;
+        public static final int auto = 0x7f0c0029;
+        public static final int baseline = 0x7f0c0044;
+        public static final int beginning = 0x7f0c0046;
+        public static final int center = 0x7f0c002b;
+        public static final int column = 0x7f0c003a;
+        public static final int column_reverse = 0x7f0c003b;
+        public static final int end = 0x7f0c002e;
+        public static final int flex_end = 0x7f0c0040;
+        public static final int flex_start = 0x7f0c0041;
         public static final int item_touch_helper_previous_elevation = 0x7f0c0005;
-        public static final int middle = 0x7f0c0041;
-        public static final int none = 0x7f0c0010;
-        public static final int nowrap = 0x7f0c0037;
-        public static final int row = 0x7f0c0035;
-        public static final int row_reverse = 0x7f0c0036;
-        public static final int space_around = 0x7f0c003c;
-        public static final int space_between = 0x7f0c003d;
-        public static final int stretch = 0x7f0c003f;
-        public static final int wrap = 0x7f0c0038;
-        public static final int wrap_reverse = 0x7f0c0039;
+        public static final int middle = 0x7f0c0047;
+        public static final int none = 0x7f0c0013;
+        public static final int nowrap = 0x7f0c003e;
+        public static final int row = 0x7f0c003c;
+        public static final int row_reverse = 0x7f0c003d;
+        public static final int space_around = 0x7f0c0042;
+        public static final int space_between = 0x7f0c0043;
+        public static final int stretch = 0x7f0c0045;
+        public static final int wrap = 0x7f0c000d;
+        public static final int wrap_reverse = 0x7f0c003f;
     }
     public static final class styleable {
-        public static final int[] FlexboxLayout = { 0x7f0100f9, 0x7f0100fa, 0x7f0100fb, 0x7f0100fc, 0x7f0100fd, 0x7f0100fe, 0x7f0100ff, 0x7f010100, 0x7f010101, 0x7f010102, 0x7f010103 };
-        public static final int[] FlexboxLayout_Layout = { 0x7f010104, 0x7f010105, 0x7f010106, 0x7f010107, 0x7f010108, 0x7f010109, 0x7f01010a, 0x7f01010b, 0x7f01010c, 0x7f01010d };
+        public static final int[] FlexboxLayout = { 0x7f010125, 0x7f010126, 0x7f010127, 0x7f010128, 0x7f010129, 0x7f01012a, 0x7f01012b, 0x7f01012c, 0x7f01012d, 0x7f01012e, 0x7f01012f };
+        public static final int[] FlexboxLayout_Layout = { 0x7f010130, 0x7f010131, 0x7f010132, 0x7f010133, 0x7f010134, 0x7f010135, 0x7f010136, 0x7f010137, 0x7f010138, 0x7f010139 };
         public static final int FlexboxLayout_Layout_layout_alignSelf = 4;
         public static final int FlexboxLayout_Layout_layout_flexBasisPercent = 3;
         public static final int FlexboxLayout_Layout_layout_flexGrow = 1;
@@ -85,7 +85,7 @@ public final class R {
         public static final int FlexboxLayout_showDivider = 8;
         public static final int FlexboxLayout_showDividerHorizontal = 9;
         public static final int FlexboxLayout_showDividerVertical = 10;
-        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f010128, 0x7f010129, 0x7f01012a, 0x7f01012b };
+        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f010154, 0x7f010155, 0x7f010156, 0x7f010157 };
         public static final int RecyclerView_android_descendantFocusability = 1;
         public static final int RecyclerView_android_orientation = 0;
         public static final int RecyclerView_layoutManager = 2;

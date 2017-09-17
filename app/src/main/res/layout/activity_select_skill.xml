@@ -8,11 +8,13 @@
 <RelativeLayout
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
     >
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/tech"
+        android:src="@drawable/back"
         android:scaleType="centerCrop"/>
     <TextView
         android:layout_width="match_parent"
@@ -22,14 +24,11 @@
         android:textColor="@color/white"
         android:textSize="30sp"
         android:gravity="center"
-        android:layout_marginTop="30dp"/>
+        android:layout_marginTop="50dp"/>
     <AutoCompleteTextView
         android:id="@+id/autoCompleteTextView"
         android:layout_width="match_parent"
         android:layout_height="40dp"
-        android:layout_marginLeft="30dp"
-        android:layout_marginRight="30dp"
-        android:layout_marginTop="30dp"
         android:padding="10dp"
         android:theme="@style/Autocomplete"
         android:textCursorDrawable="@null"
@@ -38,7 +37,11 @@
         android:textColorHint="@android:color/darker_gray"
         android:textColor="@color/white"
         android:gravity="center_vertical"
-        android:layout_below="@id/add_skill"/>
+        android:layout_marginRight="30dp"
+        android:layout_below="@+id/add_skill"
+        android:layout_alignLeft="@+id/flexbox_deleteable"
+        android:layout_alignStart="@+id/flexbox_deleteable"
+        android:layout_marginTop="123dp" />
 
 
 

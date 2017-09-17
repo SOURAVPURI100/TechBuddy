@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.login_signup_screendesign_demo.test">
+    package="com.techbuddy.test">
 
     <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="24" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.login_signup_screendesign_demo"
+                     android:targetPackage="com.techbuddy"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.login_signup_screendesign_demo"/>
+                     android:label="Tests for com.techbuddy"/>
 </manifest>

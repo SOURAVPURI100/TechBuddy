@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/yashjain/Desktop/TechBuddy/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/yashjain/.android/build-cache/da897b4631e7d0a863150d3b12c6289a0fddb810/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/yashjain/Desktop/TechBuddy/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/yashjain/.android/build-cache/da897b4631e7d0a863150d3b12c6289a0fddb810/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

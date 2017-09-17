@@ -2,40 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/5974cd06bf8830aafadf8029ef3cb46d72a55ab0/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/yashjain/Desktop/TechBuddy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_50e361cd6fa22670f410c88ef4f0c0cca3a6a876.jar" />
+        sha1="4efae43be82c5425e62ef3525c71c7836275bba8">
+        <dex dex="/Users/yashjain/Desktop/TechBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08245438201e05b28d97fca560af11a32a62f58d/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/sourav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/yashjain/Desktop/TechBuddy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_d0a20a2a41b6ea325240b1f56bb6df5799888463.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/e7db0599ebb9908f73a37dd01b10c2b7680f666e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_dbf03f66a40f968a9a37293846245a62cee1c2ce.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/5974cd06bf8830aafadf8029ef3cb46d72a55ab0/output/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_c5724b758c217b5272e68a43d3fc631f95de23dd.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yashjain/Desktop/TechBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6751f12d71323edd389340987b73205f43c942cb/classes.dex" />
     </item>
 
 </items>

@@ -5,7 +5,7 @@ package com.techbuddy;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "com.login_signup_screendesign_demo";
+  public static final String APPLICATION_ID = "com.techbuddy";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 1;

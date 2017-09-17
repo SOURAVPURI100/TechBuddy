@@ -1,19 +1,15 @@
 [
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/list_row.xml",
         "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/list_row.xml"
     },
     {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/signup_layout.xml",
@@ -24,8 +20,24 @@
         "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_menu_layout.xml"
     },
     {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/list_filterable_view.xml",
+        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/list_filterable_view.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/forgotpassword_layout.xml",
+        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/forgotpassword_layout.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/detailed_chip_view.xml",
+        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/detailed_chip_view.xml"
     },
     {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
@@ -36,32 +48,32 @@
         "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/select_dialog_item_material.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_bar_title_item.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/item_list_filterable.xml",
+        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/item_list_filterable.xml"
     },
     {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/detailed_chip_view.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/detailed_chip_view.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_part_chronometer.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/chip_view.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/chip_view.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -84,64 +96,56 @@
         "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_dialog_title_material.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_simple.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_alert_dialog_material.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/login_layout.xml",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/layout/login_layout.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_menu_layout.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/layout/notification_media_cancel_action.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/custom_toast.xml",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/layout/custom_toast.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
@@ -156,14 +160,6 @@
         "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/login_layout.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_dialog_title_material.xml"
     },
@@ -172,235 +168,27 @@
         "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/custom_toast.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_lines_media.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/layout/activity_main.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_media_custom.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/chips_input.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/chips_input.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/list_filterable_view.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/list_filterable_view.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/list_filterable_view.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/list_filterable_view.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_lines_media.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/chips_input.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/chips_input.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/forgotpassword_layout.xml",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/forgotpassword_layout.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/detailed_chip_view.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/detailed_chip_view.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/item_list_filterable.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/item_list_filterable.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/list_row.xml",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/layout/list_row.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_media.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_search_view.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_media_custom.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_simple.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_media.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_search_view.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/main_screen.xml",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/layout/main_screen.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/layout/notification_template_lines.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/layout/notification_media_action.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/forgotpassword_layout.xml",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/layout/forgotpassword_layout.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
         "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/item_list_filterable.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/item_list_filterable.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/sourav/.android/build-cache/7f1b4a7d61f0242dca4eca512d6e9ded08b9e126/output/res/layout/notification_template_big_media.xml"
-    },
-    {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/chip_view.xml",
         "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/chip_view.xml"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout/signup_layout.xml",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/layout/signup_layout.xml"
-    },
-    {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/chips_input.xml",
+        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/chips_input.xml"
     }
 ]

@@ -75,6 +75,17 @@ public class SignUp_Fragment extends Fragment implements OnClickListener {
 
 			// Call checkValidation method
 			checkValidation();
+
+			RegisterUser registerUser = new RegisterUser();
+			registerUser.email = emailId.getText().toString();
+			registerUser.name = fullName.getText().toString();
+			registerUser.password = password.getText().toString();
+			registerUser.image = "image";
+			registerUser.phone = mobileNumber.getText().toString();
+
+			RegisterUserData registerUserData = new RegisterUserData();
+			registerUserData.fillData(registerUser);
+
 			break;
 
 		case R.id.already_user:

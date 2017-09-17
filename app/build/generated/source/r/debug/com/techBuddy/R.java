@@ -2418,7 +2418,8 @@ containing a value of this type.
         public static final int abc_config_activityDefaultDur=0x7f0c0000;
         public static final int abc_config_activityShortDur=0x7f0c0001;
         public static final int cancel_button_image_alpha=0x7f0c0002;
-        public static final int status_bar_notification_info_maxnum=0x7f0c0003;
+        public static final int google_play_services_version=0x7f0c0003;
+        public static final int status_bar_notification_info_maxnum=0x7f0c0004;
     }
     public static final class layout {
         public static final int abc_action_bar_title_item=0x7f030000;
@@ -2491,18 +2492,18 @@ containing a value of this type.
         public static final int abc_activitychooserview_choose_application=0x7f050007;
         public static final int abc_capital_off=0x7f050008;
         public static final int abc_capital_on=0x7f050009;
-        public static final int abc_font_family_body_1_material=0x7f050015;
-        public static final int abc_font_family_body_2_material=0x7f050016;
-        public static final int abc_font_family_button_material=0x7f050017;
-        public static final int abc_font_family_caption_material=0x7f050018;
-        public static final int abc_font_family_display_1_material=0x7f050019;
-        public static final int abc_font_family_display_2_material=0x7f05001a;
-        public static final int abc_font_family_display_3_material=0x7f05001b;
-        public static final int abc_font_family_display_4_material=0x7f05001c;
-        public static final int abc_font_family_headline_material=0x7f05001d;
-        public static final int abc_font_family_menu_material=0x7f05001e;
-        public static final int abc_font_family_subhead_material=0x7f05001f;
-        public static final int abc_font_family_title_material=0x7f050020;
+        public static final int abc_font_family_body_1_material=0x7f050016;
+        public static final int abc_font_family_body_2_material=0x7f050017;
+        public static final int abc_font_family_button_material=0x7f050018;
+        public static final int abc_font_family_caption_material=0x7f050019;
+        public static final int abc_font_family_display_1_material=0x7f05001a;
+        public static final int abc_font_family_display_2_material=0x7f05001b;
+        public static final int abc_font_family_display_3_material=0x7f05001c;
+        public static final int abc_font_family_display_4_material=0x7f05001d;
+        public static final int abc_font_family_headline_material=0x7f05001e;
+        public static final int abc_font_family_menu_material=0x7f05001f;
+        public static final int abc_font_family_subhead_material=0x7f050020;
+        public static final int abc_font_family_title_material=0x7f050021;
         public static final int abc_search_hint=0x7f05000a;
         public static final int abc_searchview_description_clear=0x7f05000b;
         public static final int abc_searchview_description_query=0x7f05000c;
@@ -2512,29 +2513,38 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f050010;
         public static final int abc_shareactionprovider_share_with_application=0x7f050011;
         public static final int abc_toolbar_collapse_description=0x7f050012;
-        public static final int action_settings=0x7f050021;
-        public static final int already_user=0x7f050022;
-        public static final int app_name=0x7f050023;
-        public static final int back=0x7f050024;
-        public static final int closebutton=0x7f050025;
-        public static final int confirmPassword=0x7f050026;
-        public static final int email=0x7f050027;
-        public static final int forgot=0x7f050028;
-        public static final int fullName=0x7f050029;
-        public static final int hello_world=0x7f05002a;
-        public static final int hide_pwd=0x7f05002b;
-        public static final int location=0x7f05002c;
-        public static final int login=0x7f05002d;
-        public static final int mobileNumber=0x7f05002e;
-        public static final int newUser=0x7f05002f;
-        public static final int passowrd=0x7f050030;
-        public static final int registered_emailid=0x7f050031;
-        public static final int search_menu_title=0x7f050013;
-        public static final int show_pwd=0x7f050032;
-        public static final int signUp=0x7f050033;
-        public static final int status_bar_notification_info_overflow=0x7f050014;
-        public static final int submit=0x7f050034;
-        public static final int terms_conditions=0x7f050035;
+        public static final int action_settings=0x7f050022;
+        public static final int already_user=0x7f050023;
+        public static final int app_name=0x7f050024;
+        public static final int back=0x7f050025;
+        public static final int closebutton=0x7f050026;
+        public static final int common_google_play_services_unknown_issue=0x7f050013;
+        public static final int confirmPassword=0x7f050027;
+        public static final int default_web_client_id=0x7f050028;
+        public static final int email=0x7f050029;
+        public static final int firebase_database_url=0x7f05002a;
+        public static final int forgot=0x7f05002b;
+        public static final int fullName=0x7f05002c;
+        public static final int gcm_defaultSenderId=0x7f05002d;
+        public static final int google_api_key=0x7f05002e;
+        public static final int google_app_id=0x7f05002f;
+        public static final int google_crash_reporting_api_key=0x7f050030;
+        public static final int google_storage_bucket=0x7f050031;
+        public static final int hello_world=0x7f050032;
+        public static final int hide_pwd=0x7f050033;
+        public static final int location=0x7f050034;
+        public static final int login=0x7f050035;
+        public static final int mobileNumber=0x7f050036;
+        public static final int newUser=0x7f050037;
+        public static final int passowrd=0x7f050038;
+        public static final int project_id=0x7f050039;
+        public static final int registered_emailid=0x7f05003a;
+        public static final int search_menu_title=0x7f050014;
+        public static final int show_pwd=0x7f05003b;
+        public static final int signUp=0x7f05003c;
+        public static final int status_bar_notification_info_overflow=0x7f050015;
+        public static final int submit=0x7f05003d;
+        public static final int terms_conditions=0x7f05003e;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f0700a0;
@@ -2910,35 +2920,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.login_signup_screendesign_demo:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.login_signup_screendesign_demo:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.login_signup_screendesign_demo:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.login_signup_screendesign_demo:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.login_signup_screendesign_demo:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.login_signup_screendesign_demo:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.login_signup_screendesign_demo:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.login_signup_screendesign_demo:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.login_signup_screendesign_demo:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.login_signup_screendesign_demo:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.login_signup_screendesign_demo:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.login_signup_screendesign_demo:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.login_signup_screendesign_demo:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.login_signup_screendesign_demo:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.login_signup_screendesign_demo:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.login_signup_screendesign_demo:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.login_signup_screendesign_demo:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.login_signup_screendesign_demo:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.login_signup_screendesign_demo:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.login_signup_screendesign_demo:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.login_signup_screendesign_demo:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.login_signup_screendesign_demo:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.login_signup_screendesign_demo:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.login_signup_screendesign_demo:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.login_signup_screendesign_demo:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.login_signup_screendesign_demo:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.login_signup_screendesign_demo:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.login_signup_screendesign_demo:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.login_signup_screendesign_demo:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.techBuddy:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.techBuddy:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.techBuddy:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.techBuddy:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.techBuddy:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.techBuddy:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.techBuddy:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.techBuddy:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.techBuddy:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.techBuddy:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.techBuddy:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.techBuddy:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.techBuddy:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.techBuddy:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.techBuddy:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.techBuddy:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.techBuddy:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.techBuddy:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.techBuddy:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.techBuddy:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.techBuddy:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.techBuddy:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.techBuddy:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.techBuddy:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.techBuddy:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.techBuddy:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.techBuddy:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.techBuddy:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.techBuddy:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2981,17 +2991,17 @@ containing a value of this type.
             0x7f01005b
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#background}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:background
+          @attr name com.techBuddy:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2999,11 +3009,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.login_signup_screendesign_demo:backgroundSplit
+          @attr name com.techBuddy:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3011,11 +3021,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.login_signup_screendesign_demo:backgroundStacked
+          @attr name com.techBuddy:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3027,11 +3037,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetEnd
+          @attr name com.techBuddy:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3043,11 +3053,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetEndWithActions
+          @attr name com.techBuddy:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3059,11 +3069,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetLeft
+          @attr name com.techBuddy:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3075,11 +3085,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetRight
+          @attr name com.techBuddy:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3091,11 +3101,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetStart
+          @attr name com.techBuddy:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3107,21 +3117,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetStartWithNavigation
+          @attr name com.techBuddy:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:customNavigationLayout
+          @attr name com.techBuddy:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3139,21 +3149,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.login_signup_screendesign_demo:displayOptions
+          @attr name com.techBuddy:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:divider
+          @attr name com.techBuddy:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3165,11 +3175,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:elevation
+          @attr name com.techBuddy:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#height}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3181,11 +3191,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:height
+          @attr name com.techBuddy:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3195,51 +3205,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:hideOnContentScroll
+          @attr name com.techBuddy:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:homeAsUpIndicator
+          @attr name com.techBuddy:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:homeLayout
+          @attr name com.techBuddy:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:icon
+          @attr name com.techBuddy:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:indeterminateProgressStyle
+          @attr name com.techBuddy:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3251,21 +3261,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:itemPadding
+          @attr name com.techBuddy:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:logo
+          @attr name com.techBuddy:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3279,21 +3289,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.login_signup_screendesign_demo:navigationMode
+          @attr name com.techBuddy:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:popupTheme
+          @attr name com.techBuddy:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3305,21 +3315,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:progressBarPadding
+          @attr name com.techBuddy:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:progressBarStyle
+          @attr name com.techBuddy:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3329,21 +3339,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:subtitle
+          @attr name com.techBuddy:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:subtitleTextStyle
+          @attr name com.techBuddy:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#title}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3353,17 +3363,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:title
+          @attr name com.techBuddy:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:titleTextStyle
+          @attr name com.techBuddy:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3415,12 +3425,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.login_signup_screendesign_demo:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.login_signup_screendesign_demo:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.login_signup_screendesign_demo:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.login_signup_screendesign_demo:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.login_signup_screendesign_demo:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.login_signup_screendesign_demo:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.techBuddy:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.techBuddy:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.techBuddy:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.techBuddy:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.techBuddy:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.techBuddy:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3434,17 +3444,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#background}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:background
+          @attr name com.techBuddy:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3452,21 +3462,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.login_signup_screendesign_demo:backgroundSplit
+          @attr name com.techBuddy:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:closeItemLayout
+          @attr name com.techBuddy:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#height}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3478,27 +3488,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:height
+          @attr name com.techBuddy:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:subtitleTextStyle
+          @attr name com.techBuddy:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:titleTextStyle
+          @attr name com.techBuddy:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -3507,8 +3517,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.login_signup_screendesign_demo:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.login_signup_screendesign_demo:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.techBuddy:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.techBuddy:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3517,17 +3527,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001f, 0x7f010020
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:expandActivityOverflowButtonDrawable
+          @attr name com.techBuddy:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -3537,7 +3547,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:initialActivityCount
+          @attr name com.techBuddy:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -3547,12 +3557,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.login_signup_screendesign_demo:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.login_signup_screendesign_demo:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.login_signup_screendesign_demo:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.login_signup_screendesign_demo:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.login_signup_screendesign_demo:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.login_signup_screendesign_demo:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.techBuddy:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.techBuddy:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.techBuddy:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.techBuddy:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.techBuddy:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.techBuddy:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3573,47 +3583,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:buttonPanelSideLayout
+          @attr name com.techBuddy:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:listItemLayout
+          @attr name com.techBuddy:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:listLayout
+          @attr name com.techBuddy:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:multiChoiceItemLayout
+          @attr name com.techBuddy:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -3623,17 +3633,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:showTitle
+          @attr name com.techBuddy:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:singleChoiceItemLayout
+          @attr name com.techBuddy:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatImageView.
@@ -3643,7 +3653,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.login_signup_screendesign_demo:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.techBuddy:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -3658,13 +3668,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:srcCompat
+          @attr name com.techBuddy:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -3674,9 +3684,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.login_signup_screendesign_demo:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.login_signup_screendesign_demo:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.login_signup_screendesign_demo:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.techBuddy:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.techBuddy:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.techBuddy:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -3693,17 +3703,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:tickMark
+          @attr name com.techBuddy:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -3714,11 +3724,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:tickMarkTint
+          @attr name com.techBuddy:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -3735,7 +3745,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.login_signup_screendesign_demo:tickMarkTintMode
+          @attr name com.techBuddy:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -3813,7 +3823,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.login_signup_screendesign_demo:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.techBuddy:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3828,14 +3838,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.login_signup_screendesign_demo:textAllCaps
+          @attr name com.techBuddy:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -3844,121 +3854,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.login_signup_screendesign_demo:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.login_signup_screendesign_demo:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.login_signup_screendesign_demo:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.login_signup_screendesign_demo:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.login_signup_screendesign_demo:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.login_signup_screendesign_demo:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.login_signup_screendesign_demo:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.login_signup_screendesign_demo:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.login_signup_screendesign_demo:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.login_signup_screendesign_demo:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.login_signup_screendesign_demo:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.login_signup_screendesign_demo:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.login_signup_screendesign_demo:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.login_signup_screendesign_demo:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.login_signup_screendesign_demo:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.login_signup_screendesign_demo:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.login_signup_screendesign_demo:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.login_signup_screendesign_demo:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.login_signup_screendesign_demo:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.login_signup_screendesign_demo:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.login_signup_screendesign_demo:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.login_signup_screendesign_demo:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.login_signup_screendesign_demo:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.login_signup_screendesign_demo:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.login_signup_screendesign_demo:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.login_signup_screendesign_demo:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.login_signup_screendesign_demo:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.login_signup_screendesign_demo:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.login_signup_screendesign_demo:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.login_signup_screendesign_demo:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.login_signup_screendesign_demo:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.login_signup_screendesign_demo:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.login_signup_screendesign_demo:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.login_signup_screendesign_demo:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.login_signup_screendesign_demo:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.techBuddy:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.techBuddy:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.techBuddy:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.techBuddy:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.techBuddy:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.techBuddy:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.techBuddy:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.techBuddy:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.techBuddy:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.techBuddy:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.techBuddy:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.techBuddy:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.techBuddy:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.techBuddy:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.techBuddy:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.techBuddy:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.techBuddy:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.techBuddy:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.techBuddy:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.techBuddy:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.techBuddy:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.techBuddy:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.techBuddy:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.techBuddy:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.techBuddy:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.techBuddy:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.techBuddy:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.techBuddy:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.techBuddy:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.techBuddy:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.techBuddy:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.techBuddy:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.techBuddy:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.techBuddy:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.techBuddy:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.login_signup_screendesign_demo:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.login_signup_screendesign_demo:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.login_signup_screendesign_demo:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.login_signup_screendesign_demo:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.login_signup_screendesign_demo:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.login_signup_screendesign_demo:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.login_signup_screendesign_demo:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.login_signup_screendesign_demo:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.login_signup_screendesign_demo:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.login_signup_screendesign_demo:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.login_signup_screendesign_demo:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.login_signup_screendesign_demo:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.login_signup_screendesign_demo:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.login_signup_screendesign_demo:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.login_signup_screendesign_demo:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.login_signup_screendesign_demo:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.login_signup_screendesign_demo:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.login_signup_screendesign_demo:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.login_signup_screendesign_demo:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.login_signup_screendesign_demo:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.login_signup_screendesign_demo:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.login_signup_screendesign_demo:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.login_signup_screendesign_demo:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.login_signup_screendesign_demo:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.login_signup_screendesign_demo:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.login_signup_screendesign_demo:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.login_signup_screendesign_demo:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.login_signup_screendesign_demo:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.login_signup_screendesign_demo:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.login_signup_screendesign_demo:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.login_signup_screendesign_demo:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.login_signup_screendesign_demo:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.login_signup_screendesign_demo:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.login_signup_screendesign_demo:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.login_signup_screendesign_demo:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.login_signup_screendesign_demo:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.login_signup_screendesign_demo:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.login_signup_screendesign_demo:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.login_signup_screendesign_demo:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.login_signup_screendesign_demo:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.login_signup_screendesign_demo:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.login_signup_screendesign_demo:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.login_signup_screendesign_demo:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.login_signup_screendesign_demo:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.login_signup_screendesign_demo:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.login_signup_screendesign_demo:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.login_signup_screendesign_demo:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.login_signup_screendesign_demo:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.login_signup_screendesign_demo:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.login_signup_screendesign_demo:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.login_signup_screendesign_demo:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.login_signup_screendesign_demo:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.login_signup_screendesign_demo:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.login_signup_screendesign_demo:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.login_signup_screendesign_demo:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.login_signup_screendesign_demo:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.login_signup_screendesign_demo:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.login_signup_screendesign_demo:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.login_signup_screendesign_demo:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.login_signup_screendesign_demo:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.login_signup_screendesign_demo:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.login_signup_screendesign_demo:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.login_signup_screendesign_demo:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.login_signup_screendesign_demo:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.login_signup_screendesign_demo:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.login_signup_screendesign_demo:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.login_signup_screendesign_demo:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.login_signup_screendesign_demo:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.login_signup_screendesign_demo:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.login_signup_screendesign_demo:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.login_signup_screendesign_demo:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.login_signup_screendesign_demo:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.login_signup_screendesign_demo:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.login_signup_screendesign_demo:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.login_signup_screendesign_demo:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.login_signup_screendesign_demo:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.login_signup_screendesign_demo:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.login_signup_screendesign_demo:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.techBuddy:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.techBuddy:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.techBuddy:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.techBuddy:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.techBuddy:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.techBuddy:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.techBuddy:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.techBuddy:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.techBuddy:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.techBuddy:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.techBuddy:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.techBuddy:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.techBuddy:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.techBuddy:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.techBuddy:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.techBuddy:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.techBuddy:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.techBuddy:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.techBuddy:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.techBuddy:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.techBuddy:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.techBuddy:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.techBuddy:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.techBuddy:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.techBuddy:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.techBuddy:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.techBuddy:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.techBuddy:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.techBuddy:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.techBuddy:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.techBuddy:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.techBuddy:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.techBuddy:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.techBuddy:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.techBuddy:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.techBuddy:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.techBuddy:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.techBuddy:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.techBuddy:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.techBuddy:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.techBuddy:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.techBuddy:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.techBuddy:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.techBuddy:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.techBuddy:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.techBuddy:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.techBuddy:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.techBuddy:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.techBuddy:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.techBuddy:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.techBuddy:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.techBuddy:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.techBuddy:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.techBuddy:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.techBuddy:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.techBuddy:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.techBuddy:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.techBuddy:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.techBuddy:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.techBuddy:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.techBuddy:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.techBuddy:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.techBuddy:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.techBuddy:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.techBuddy:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.techBuddy:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.techBuddy:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.techBuddy:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.techBuddy:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.techBuddy:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.techBuddy:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.techBuddy:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.techBuddy:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.techBuddy:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.techBuddy:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.techBuddy:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.techBuddy:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.techBuddy:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -4108,37 +4118,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01009a, 0x7f01009b, 0x7f01009c
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionBarDivider
+          @attr name com.techBuddy:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionBarItemBackground
+          @attr name com.techBuddy:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionBarPopupTheme
+          @attr name com.techBuddy:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4158,111 +4168,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.login_signup_screendesign_demo:actionBarSize
+          @attr name com.techBuddy:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionBarSplitStyle
+          @attr name com.techBuddy:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionBarStyle
+          @attr name com.techBuddy:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionBarTabBarStyle
+          @attr name com.techBuddy:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionBarTabStyle
+          @attr name com.techBuddy:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionBarTabTextStyle
+          @attr name com.techBuddy:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionBarTheme
+          @attr name com.techBuddy:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionBarWidgetTheme
+          @attr name com.techBuddy:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionButtonStyle
+          @attr name com.techBuddy:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionDropDownStyle
+          @attr name com.techBuddy:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionMenuTextAppearance
+          @attr name com.techBuddy:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4270,181 +4280,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionMenuTextColor
+          @attr name com.techBuddy:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModeBackground
+          @attr name com.techBuddy:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModeCloseButtonStyle
+          @attr name com.techBuddy:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModeCloseDrawable
+          @attr name com.techBuddy:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModeCopyDrawable
+          @attr name com.techBuddy:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModeCutDrawable
+          @attr name com.techBuddy:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModeFindDrawable
+          @attr name com.techBuddy:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModePasteDrawable
+          @attr name com.techBuddy:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModePopupWindowStyle
+          @attr name com.techBuddy:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModeSelectAllDrawable
+          @attr name com.techBuddy:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModeShareDrawable
+          @attr name com.techBuddy:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModeSplitBackground
+          @attr name com.techBuddy:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModeStyle
+          @attr name com.techBuddy:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionModeWebSearchDrawable
+          @attr name com.techBuddy:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionOverflowButtonStyle
+          @attr name com.techBuddy:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionOverflowMenuStyle
+          @attr name com.techBuddy:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:activityChooserViewStyle
+          @attr name com.techBuddy:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:alertDialogButtonGroupStyle
+          @attr name com.techBuddy:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4454,27 +4464,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:alertDialogCenterButtons
+          @attr name com.techBuddy:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:alertDialogStyle
+          @attr name com.techBuddy:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:alertDialogTheme
+          @attr name com.techBuddy:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -4490,117 +4500,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:autoCompleteTextViewStyle
+          @attr name com.techBuddy:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:borderlessButtonStyle
+          @attr name com.techBuddy:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:buttonBarButtonStyle
+          @attr name com.techBuddy:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:buttonBarNegativeButtonStyle
+          @attr name com.techBuddy:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:buttonBarNeutralButtonStyle
+          @attr name com.techBuddy:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:buttonBarPositiveButtonStyle
+          @attr name com.techBuddy:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:buttonBarStyle
+          @attr name com.techBuddy:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:buttonStyle
+          @attr name com.techBuddy:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:buttonStyleSmall
+          @attr name com.techBuddy:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:checkboxStyle
+          @attr name com.techBuddy:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:checkedTextViewStyle
+          @attr name com.techBuddy:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4611,11 +4621,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:colorAccent
+          @attr name com.techBuddy:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4626,11 +4636,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:colorBackgroundFloating
+          @attr name com.techBuddy:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4641,11 +4651,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:colorButtonNormal
+          @attr name com.techBuddy:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4656,11 +4666,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:colorControlActivated
+          @attr name com.techBuddy:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4671,11 +4681,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:colorControlHighlight
+          @attr name com.techBuddy:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4686,11 +4696,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:colorControlNormal
+          @attr name com.techBuddy:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4701,11 +4711,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:colorPrimary
+          @attr name com.techBuddy:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4716,11 +4726,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:colorPrimaryDark
+          @attr name com.techBuddy:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4731,21 +4741,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:colorSwitchThumbNormal
+          @attr name com.techBuddy:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:controlBackground
+          @attr name com.techBuddy:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4757,51 +4767,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:dialogPreferredPadding
+          @attr name com.techBuddy:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:dialogTheme
+          @attr name com.techBuddy:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:dividerHorizontal
+          @attr name com.techBuddy:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:dividerVertical
+          @attr name com.techBuddy:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:dropDownListViewStyle
+          @attr name com.techBuddy:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4813,21 +4823,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:dropdownListPreferredItemHeight
+          @attr name com.techBuddy:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:editTextBackground
+          @attr name com.techBuddy:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4835,81 +4845,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.login_signup_screendesign_demo:editTextColor
+          @attr name com.techBuddy:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:editTextStyle
+          @attr name com.techBuddy:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:homeAsUpIndicator
+          @attr name com.techBuddy:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:imageButtonStyle
+          @attr name com.techBuddy:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:listChoiceBackgroundIndicator
+          @attr name com.techBuddy:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:listDividerAlertDialog
+          @attr name com.techBuddy:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:listMenuViewStyle
+          @attr name com.techBuddy:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:listPopupWindowStyle
+          @attr name com.techBuddy:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4921,11 +4931,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:listPreferredItemHeight
+          @attr name com.techBuddy:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4937,11 +4947,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:listPreferredItemHeightLarge
+          @attr name com.techBuddy:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4953,11 +4963,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:listPreferredItemHeightSmall
+          @attr name com.techBuddy:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4969,11 +4979,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:listPreferredItemPaddingLeft
+          @attr name com.techBuddy:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4985,31 +4995,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:listPreferredItemPaddingRight
+          @attr name com.techBuddy:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:panelBackground
+          @attr name com.techBuddy:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:panelMenuListTheme
+          @attr name com.techBuddy:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5021,211 +5031,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:panelMenuListWidth
+          @attr name com.techBuddy:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:popupMenuStyle
+          @attr name com.techBuddy:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:popupWindowStyle
+          @attr name com.techBuddy:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:radioButtonStyle
+          @attr name com.techBuddy:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:ratingBarStyle
+          @attr name com.techBuddy:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:ratingBarStyleIndicator
+          @attr name com.techBuddy:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:ratingBarStyleSmall
+          @attr name com.techBuddy:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:searchViewStyle
+          @attr name com.techBuddy:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:seekBarStyle
+          @attr name com.techBuddy:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:selectableItemBackground
+          @attr name com.techBuddy:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:selectableItemBackgroundBorderless
+          @attr name com.techBuddy:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:spinnerDropDownItemStyle
+          @attr name com.techBuddy:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:spinnerStyle
+          @attr name com.techBuddy:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:switchStyle
+          @attr name com.techBuddy:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:textAppearanceLargePopupMenu
+          @attr name com.techBuddy:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:textAppearanceListItem
+          @attr name com.techBuddy:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:textAppearanceListItemSmall
+          @attr name com.techBuddy:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:textAppearancePopupMenuHeader
+          @attr name com.techBuddy:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:textAppearanceSearchResultSubtitle
+          @attr name com.techBuddy:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:textAppearanceSearchResultTitle
+          @attr name com.techBuddy:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:textAppearanceSmallPopupMenu
+          @attr name com.techBuddy:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5233,11 +5243,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.login_signup_screendesign_demo:textColorAlertDialogListItem
+          @attr name com.techBuddy:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5245,31 +5255,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.login_signup_screendesign_demo:textColorSearchUrl
+          @attr name com.techBuddy:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:toolbarNavigationButtonStyle
+          @attr name com.techBuddy:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:toolbarStyle
+          @attr name com.techBuddy:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5279,11 +5289,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:windowActionBar
+          @attr name com.techBuddy:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5293,11 +5303,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:windowActionBarOverlay
+          @attr name com.techBuddy:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5307,11 +5317,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:windowActionModeOverlay
+          @attr name com.techBuddy:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5326,11 +5336,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:windowFixedHeightMajor
+          @attr name com.techBuddy:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5345,11 +5355,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:windowFixedHeightMinor
+          @attr name com.techBuddy:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5364,11 +5374,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:windowFixedWidthMajor
+          @attr name com.techBuddy:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5383,11 +5393,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:windowFixedWidthMinor
+          @attr name com.techBuddy:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5402,11 +5412,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:windowMinWidthMajor
+          @attr name com.techBuddy:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5421,11 +5431,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:windowMinWidthMinor
+          @attr name com.techBuddy:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5435,7 +5445,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:windowNoTitle
+          @attr name com.techBuddy:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -5444,7 +5454,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.login_signup_screendesign_demo:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.techBuddy:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -5452,7 +5462,7 @@ containing a value of this type.
             0x7f01009d
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -5462,7 +5472,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:allowStacking
+          @attr name com.techBuddy:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -5473,17 +5483,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor com.login_signup_screendesign_demo:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius com.login_signup_screendesign_demo:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation com.login_signup_screendesign_demo:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation com.login_signup_screendesign_demo:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.login_signup_screendesign_demo:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding com.login_signup_screendesign_demo:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding com.login_signup_screendesign_demo:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom com.login_signup_screendesign_demo:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft com.login_signup_screendesign_demo:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight com.login_signup_screendesign_demo:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop com.login_signup_screendesign_demo:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.techBuddy:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.techBuddy:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.techBuddy:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.techBuddy:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.techBuddy:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.techBuddy:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.techBuddy:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.techBuddy:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.techBuddy:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.techBuddy:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.techBuddy:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -5518,7 +5528,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5529,11 +5539,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:cardBackgroundColor
+          @attr name com.techBuddy:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5545,11 +5555,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:cardCornerRadius
+          @attr name com.techBuddy:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5561,11 +5571,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:cardElevation
+          @attr name com.techBuddy:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5577,11 +5587,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:cardMaxElevation
+          @attr name com.techBuddy:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5591,11 +5601,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:cardPreventCornerOverlap
+          @attr name com.techBuddy:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5605,11 +5615,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:cardUseCompatPadding
+          @attr name com.techBuddy:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5621,11 +5631,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentPadding
+          @attr name com.techBuddy:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5637,11 +5647,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentPaddingBottom
+          @attr name com.techBuddy:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5653,11 +5663,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentPaddingLeft
+          @attr name com.techBuddy:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5669,11 +5679,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentPaddingRight
+          @attr name com.techBuddy:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5685,7 +5695,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentPaddingTop
+          @attr name com.techBuddy:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a ChipView.
@@ -5694,14 +5704,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ChipView_avatarIcon com.login_signup_screendesign_demo:avatarIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipView_backgroundColor com.login_signup_screendesign_demo:backgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipView_deletable com.login_signup_screendesign_demo:deletable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipView_deleteIcon com.login_signup_screendesign_demo:deleteIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipView_deleteIconColor com.login_signup_screendesign_demo:deleteIconColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipView_hasAvatarIcon com.login_signup_screendesign_demo:hasAvatarIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipView_label com.login_signup_screendesign_demo:label}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipView_labelColor com.login_signup_screendesign_demo:labelColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipView_avatarIcon com.techBuddy:avatarIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipView_backgroundColor com.techBuddy:backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipView_deletable com.techBuddy:deletable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipView_deleteIcon com.techBuddy:deleteIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipView_deleteIconColor com.techBuddy:deleteIconColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipView_hasAvatarIcon com.techBuddy:hasAvatarIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipView_label com.techBuddy:label}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipView_labelColor com.techBuddy:labelColor}</code></td><td></td></tr>
            </table>
            @see #ChipView_avatarIcon
            @see #ChipView_backgroundColor
@@ -5717,17 +5727,17 @@ containing a value of this type.
             0x7f0100ad, 0x7f0100ae, 0x7f0100af, 0x7f0100b0
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#avatarIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#avatarIcon}
           attribute's value can be found in the {@link #ChipView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:avatarIcon
+          @attr name com.techBuddy:avatarIcon
         */
         public static final int ChipView_avatarIcon = 3;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#backgroundColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#backgroundColor}
           attribute's value can be found in the {@link #ChipView} array.
 
 
@@ -5738,11 +5748,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:backgroundColor
+          @attr name com.techBuddy:backgroundColor
         */
         public static final int ChipView_backgroundColor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#deletable}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#deletable}
           attribute's value can be found in the {@link #ChipView} array.
 
 
@@ -5752,21 +5762,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:deletable
+          @attr name com.techBuddy:deletable
         */
         public static final int ChipView_deletable = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#deleteIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#deleteIcon}
           attribute's value can be found in the {@link #ChipView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:deleteIcon
+          @attr name com.techBuddy:deleteIcon
         */
         public static final int ChipView_deleteIcon = 5;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#deleteIconColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#deleteIconColor}
           attribute's value can be found in the {@link #ChipView} array.
 
 
@@ -5777,11 +5787,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:deleteIconColor
+          @attr name com.techBuddy:deleteIconColor
         */
         public static final int ChipView_deleteIconColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#hasAvatarIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#hasAvatarIcon}
           attribute's value can be found in the {@link #ChipView} array.
 
 
@@ -5791,11 +5801,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:hasAvatarIcon
+          @attr name com.techBuddy:hasAvatarIcon
         */
         public static final int ChipView_hasAvatarIcon = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#label}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#label}
           attribute's value can be found in the {@link #ChipView} array.
 
 
@@ -5805,11 +5815,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:label
+          @attr name com.techBuddy:label
         */
         public static final int ChipView_label = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#labelColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#labelColor}
           attribute's value can be found in the {@link #ChipView} array.
 
 
@@ -5820,7 +5830,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:labelColor
+          @attr name com.techBuddy:labelColor
         */
         public static final int ChipView_labelColor = 1;
         /** Attributes that can be used with a ChipsInput.
@@ -5829,22 +5839,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ChipsInput_chip_backgroundColor com.login_signup_screendesign_demo:chip_backgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_chip_deletable com.login_signup_screendesign_demo:chip_deletable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_chip_deleteIcon com.login_signup_screendesign_demo:chip_deleteIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_chip_deleteIconColor com.login_signup_screendesign_demo:chip_deleteIconColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_chip_detailed_backgroundColor com.login_signup_screendesign_demo:chip_detailed_backgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_chip_detailed_deleteIconColor com.login_signup_screendesign_demo:chip_detailed_deleteIconColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_chip_detailed_textColor com.login_signup_screendesign_demo:chip_detailed_textColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_chip_hasAvatarIcon com.login_signup_screendesign_demo:chip_hasAvatarIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_chip_labelColor com.login_signup_screendesign_demo:chip_labelColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_filterable_list_backgroundColor com.login_signup_screendesign_demo:filterable_list_backgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_filterable_list_textColor com.login_signup_screendesign_demo:filterable_list_textColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_hint com.login_signup_screendesign_demo:hint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_hintColor com.login_signup_screendesign_demo:hintColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_maxRows com.login_signup_screendesign_demo:maxRows}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_showChipDetailed com.login_signup_screendesign_demo:showChipDetailed}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipsInput_textColor com.login_signup_screendesign_demo:textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_chip_backgroundColor com.techBuddy:chip_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_chip_deletable com.techBuddy:chip_deletable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_chip_deleteIcon com.techBuddy:chip_deleteIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_chip_deleteIconColor com.techBuddy:chip_deleteIconColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_chip_detailed_backgroundColor com.techBuddy:chip_detailed_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_chip_detailed_deleteIconColor com.techBuddy:chip_detailed_deleteIconColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_chip_detailed_textColor com.techBuddy:chip_detailed_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_chip_hasAvatarIcon com.techBuddy:chip_hasAvatarIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_chip_labelColor com.techBuddy:chip_labelColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_filterable_list_backgroundColor com.techBuddy:filterable_list_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_filterable_list_textColor com.techBuddy:filterable_list_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_hint com.techBuddy:hint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_hintColor com.techBuddy:hintColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_maxRows com.techBuddy:maxRows}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_showChipDetailed com.techBuddy:showChipDetailed}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipsInput_textColor com.techBuddy:textColor}</code></td><td></td></tr>
            </table>
            @see #ChipsInput_chip_backgroundColor
            @see #ChipsInput_chip_deletable
@@ -5870,7 +5880,7 @@ containing a value of this type.
             0x7f0100bd, 0x7f0100be, 0x7f0100bf, 0x7f0100c0
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#chip_backgroundColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#chip_backgroundColor}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -5881,11 +5891,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:chip_backgroundColor
+          @attr name com.techBuddy:chip_backgroundColor
         */
         public static final int ChipsInput_chip_backgroundColor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#chip_deletable}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#chip_deletable}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -5895,21 +5905,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:chip_deletable
+          @attr name com.techBuddy:chip_deletable
         */
         public static final int ChipsInput_chip_deletable = 6;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#chip_deleteIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#chip_deleteIcon}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:chip_deleteIcon
+          @attr name com.techBuddy:chip_deleteIcon
         */
         public static final int ChipsInput_chip_deleteIcon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#chip_deleteIconColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#chip_deleteIconColor}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -5920,11 +5930,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:chip_deleteIconColor
+          @attr name com.techBuddy:chip_deleteIconColor
         */
         public static final int ChipsInput_chip_deleteIconColor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#chip_detailed_backgroundColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#chip_detailed_backgroundColor}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -5935,11 +5945,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:chip_detailed_backgroundColor
+          @attr name com.techBuddy:chip_detailed_backgroundColor
         */
         public static final int ChipsInput_chip_detailed_backgroundColor = 12;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#chip_detailed_deleteIconColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#chip_detailed_deleteIconColor}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -5950,11 +5960,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:chip_detailed_deleteIconColor
+          @attr name com.techBuddy:chip_detailed_deleteIconColor
         */
         public static final int ChipsInput_chip_detailed_deleteIconColor = 13;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#chip_detailed_textColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#chip_detailed_textColor}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -5965,11 +5975,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:chip_detailed_textColor
+          @attr name com.techBuddy:chip_detailed_textColor
         */
         public static final int ChipsInput_chip_detailed_textColor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#chip_hasAvatarIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#chip_hasAvatarIcon}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -5979,11 +5989,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:chip_hasAvatarIcon
+          @attr name com.techBuddy:chip_hasAvatarIcon
         */
         public static final int ChipsInput_chip_hasAvatarIcon = 5;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#chip_labelColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#chip_labelColor}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -5994,11 +6004,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:chip_labelColor
+          @attr name com.techBuddy:chip_labelColor
         */
         public static final int ChipsInput_chip_labelColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#filterable_list_backgroundColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#filterable_list_backgroundColor}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -6009,11 +6019,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:filterable_list_backgroundColor
+          @attr name com.techBuddy:filterable_list_backgroundColor
         */
         public static final int ChipsInput_filterable_list_backgroundColor = 14;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#filterable_list_textColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#filterable_list_textColor}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -6024,11 +6034,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:filterable_list_textColor
+          @attr name com.techBuddy:filterable_list_textColor
         */
         public static final int ChipsInput_filterable_list_textColor = 15;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#hint}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#hint}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -6038,11 +6048,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:hint
+          @attr name com.techBuddy:hint
         */
         public static final int ChipsInput_hint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#hintColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#hintColor}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -6053,11 +6063,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:hintColor
+          @attr name com.techBuddy:hintColor
         */
         public static final int ChipsInput_hintColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#maxRows}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#maxRows}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -6067,11 +6077,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:maxRows
+          @attr name com.techBuddy:maxRows
         */
         public static final int ChipsInput_maxRows = 3;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#showChipDetailed}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#showChipDetailed}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -6081,11 +6091,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:showChipDetailed
+          @attr name com.techBuddy:showChipDetailed
         */
         public static final int ChipsInput_showChipDetailed = 10;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textColor}
           attribute's value can be found in the {@link #ChipsInput} array.
 
 
@@ -6096,7 +6106,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:textColor
+          @attr name com.techBuddy:textColor
         */
         public static final int ChipsInput_textColor = 2;
         /** Attributes that can be used with a CircleImageView.
@@ -6105,10 +6115,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CircleImageView_civ_border_color com.login_signup_screendesign_demo:civ_border_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_civ_border_overlay com.login_signup_screendesign_demo:civ_border_overlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_civ_border_width com.login_signup_screendesign_demo:civ_border_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_civ_fill_color com.login_signup_screendesign_demo:civ_fill_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_border_color com.techBuddy:civ_border_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_border_overlay com.techBuddy:civ_border_overlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_border_width com.techBuddy:civ_border_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_fill_color com.techBuddy:civ_fill_color}</code></td><td></td></tr>
            </table>
            @see #CircleImageView_civ_border_color
            @see #CircleImageView_civ_border_overlay
@@ -6119,7 +6129,7 @@ containing a value of this type.
             0x7f0100c1, 0x7f0100c2, 0x7f0100c3, 0x7f0100c4
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#civ_border_color}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#civ_border_color}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -6130,11 +6140,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:civ_border_color
+          @attr name com.techBuddy:civ_border_color
         */
         public static final int CircleImageView_civ_border_color = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#civ_border_overlay}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#civ_border_overlay}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -6144,11 +6154,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:civ_border_overlay
+          @attr name com.techBuddy:civ_border_overlay
         */
         public static final int CircleImageView_civ_border_overlay = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#civ_border_width}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#civ_border_width}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -6160,11 +6170,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:civ_border_width
+          @attr name com.techBuddy:civ_border_width
         */
         public static final int CircleImageView_civ_border_width = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#civ_fill_color}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#civ_fill_color}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -6175,7 +6185,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:civ_fill_color
+          @attr name com.techBuddy:civ_fill_color
         */
         public static final int CircleImageView_civ_fill_color = 3;
         /** Attributes that can be used with a ColorStateListItem.
@@ -6184,7 +6194,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.login_signup_screendesign_demo:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.techBuddy:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -6196,7 +6206,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100c5
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -6206,7 +6216,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:alpha
+          @attr name com.techBuddy:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -6228,8 +6238,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.login_signup_screendesign_demo:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.login_signup_screendesign_demo:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.techBuddy:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.techBuddy:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -6245,7 +6255,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6256,11 +6266,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:buttonTint
+          @attr name com.techBuddy:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6276,7 +6286,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.login_signup_screendesign_demo:buttonTintMode
+          @attr name com.techBuddy:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -6285,14 +6295,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.login_signup_screendesign_demo:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.login_signup_screendesign_demo:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.login_signup_screendesign_demo:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.login_signup_screendesign_demo:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.login_signup_screendesign_demo:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.login_signup_screendesign_demo:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.login_signup_screendesign_demo:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.login_signup_screendesign_demo:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.techBuddy:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.techBuddy:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.techBuddy:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.techBuddy:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.techBuddy:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.techBuddy:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.techBuddy:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.techBuddy:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -6308,7 +6318,7 @@ containing a value of this type.
             0x7f0100cc, 0x7f0100cd, 0x7f0100ce, 0x7f0100cf
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6320,11 +6330,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:arrowHeadLength
+          @attr name com.techBuddy:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6336,11 +6346,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:arrowShaftLength
+          @attr name com.techBuddy:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6352,11 +6362,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:barLength
+          @attr name com.techBuddy:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#color}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6367,11 +6377,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:color
+          @attr name com.techBuddy:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6383,11 +6393,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:drawableSize
+          @attr name com.techBuddy:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6399,11 +6409,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:gapBetweenBars
+          @attr name com.techBuddy:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6413,11 +6423,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:spinBars
+          @attr name com.techBuddy:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6429,7 +6439,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:thickness
+          @attr name com.techBuddy:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -6443,10 +6453,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.login_signup_screendesign_demo:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.login_signup_screendesign_demo:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.login_signup_screendesign_demo:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.login_signup_screendesign_demo:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.techBuddy:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.techBuddy:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.techBuddy:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.techBuddy:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -6494,17 +6504,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:divider
+          @attr name com.techBuddy:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6516,11 +6526,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:dividerPadding
+          @attr name com.techBuddy:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6530,11 +6540,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:measureWithLargestChild
+          @attr name com.techBuddy:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6549,7 +6559,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.login_signup_screendesign_demo:showDividers
+          @attr name com.techBuddy:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -6688,9 +6698,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.login_signup_screendesign_demo:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.login_signup_screendesign_demo:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.login_signup_screendesign_demo:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.techBuddy:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.techBuddy:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.techBuddy:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -6704,7 +6714,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.login_signup_screendesign_demo:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.techBuddy:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -6732,17 +6742,17 @@ containing a value of this type.
             0x7f0100d6
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:actionLayout
+          @attr name com.techBuddy:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6752,11 +6762,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:actionProviderClass
+          @attr name com.techBuddy:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6766,7 +6776,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:actionViewClass
+          @attr name com.techBuddy:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -6848,7 +6858,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6864,7 +6874,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.login_signup_screendesign_demo:showAsAction
+          @attr name com.techBuddy:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -6880,8 +6890,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.login_signup_screendesign_demo:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.login_signup_screendesign_demo:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.techBuddy:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.techBuddy:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -6941,7 +6951,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -6951,17 +6961,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:preserveIconSpacing
+          @attr name com.techBuddy:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:subMenuArrow
+          @attr name com.techBuddy:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a PopupWindow.
@@ -6972,7 +6982,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.login_signup_screendesign_demo:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.techBuddy:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -6994,7 +7004,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -7004,7 +7014,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:overlapAnchor
+          @attr name com.techBuddy:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -7013,7 +7023,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.login_signup_screendesign_demo:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.techBuddy:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -7021,7 +7031,7 @@ containing a value of this type.
             0x7f0100da
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -7031,7 +7041,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:state_above_anchor
+          @attr name com.techBuddy:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -7040,8 +7050,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.login_signup_screendesign_demo:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.login_signup_screendesign_demo:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.techBuddy:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.techBuddy:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -7050,7 +7060,7 @@ containing a value of this type.
             0x7f0100db, 0x7f0100dc
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -7062,11 +7072,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:paddingBottomNoButtons
+          @attr name com.techBuddy:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -7078,7 +7088,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:paddingTopNoTitle
+          @attr name com.techBuddy:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -7089,10 +7099,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.login_signup_screendesign_demo:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.login_signup_screendesign_demo:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.login_signup_screendesign_demo:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.login_signup_screendesign_demo:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.techBuddy:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.techBuddy:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.techBuddy:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.techBuddy:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -7118,7 +7128,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7128,11 +7138,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:layoutManager
+          @attr name com.techBuddy:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7142,11 +7152,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:reverseLayout
+          @attr name com.techBuddy:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7156,11 +7166,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:spanCount
+          @attr name com.techBuddy:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7170,7 +7180,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:stackFromEnd
+          @attr name com.techBuddy:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrollViewMaxHeight.
@@ -7179,7 +7189,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollViewMaxHeight_maxHeight com.login_signup_screendesign_demo:maxHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollViewMaxHeight_maxHeight com.techBuddy:maxHeight}</code></td><td></td></tr>
            </table>
            @see #ScrollViewMaxHeight_maxHeight
          */
@@ -7187,7 +7197,7 @@ containing a value of this type.
             0x7f0100e1
         };
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#maxHeight}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#maxHeight}
           attribute's value can be found in the {@link #ScrollViewMaxHeight} array.
 
 
@@ -7199,7 +7209,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:maxHeight
+          @attr name com.techBuddy:maxHeight
         */
         public static final int ScrollViewMaxHeight_maxHeight = 0;
         /** Attributes that can be used with a SearchView.
@@ -7212,19 +7222,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.login_signup_screendesign_demo:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.login_signup_screendesign_demo:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.login_signup_screendesign_demo:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.login_signup_screendesign_demo:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.login_signup_screendesign_demo:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.login_signup_screendesign_demo:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.login_signup_screendesign_demo:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.login_signup_screendesign_demo:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.login_signup_screendesign_demo:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.login_signup_screendesign_demo:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.login_signup_screendesign_demo:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.login_signup_screendesign_demo:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.login_signup_screendesign_demo:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.techBuddy:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.techBuddy:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.techBuddy:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.techBuddy:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.techBuddy:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.techBuddy:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.techBuddy:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.techBuddy:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.techBuddy:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.techBuddy:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.techBuddy:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.techBuddy:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.techBuddy:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -7276,27 +7286,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:closeIcon
+          @attr name com.techBuddy:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:commitIcon
+          @attr name com.techBuddy:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -7306,21 +7316,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:defaultQueryHint
+          @attr name com.techBuddy:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:goIcon
+          @attr name com.techBuddy:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -7330,31 +7340,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:iconifiedByDefault
+          @attr name com.techBuddy:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:layout
+          @attr name com.techBuddy:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:queryBackground
+          @attr name com.techBuddy:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -7364,57 +7374,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:queryHint
+          @attr name com.techBuddy:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:searchHintIcon
+          @attr name com.techBuddy:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:searchIcon
+          @attr name com.techBuddy:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:submitBackground
+          @attr name com.techBuddy:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:suggestionRowLayout
+          @attr name com.techBuddy:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:voiceIcon
+          @attr name com.techBuddy:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
@@ -7427,7 +7437,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.login_signup_screendesign_demo:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.techBuddy:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -7464,13 +7474,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:popupTheme
+          @attr name com.techBuddy:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -7482,17 +7492,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.login_signup_screendesign_demo:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.login_signup_screendesign_demo:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.login_signup_screendesign_demo:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.login_signup_screendesign_demo:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.login_signup_screendesign_demo:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.login_signup_screendesign_demo:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.login_signup_screendesign_demo:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.login_signup_screendesign_demo:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.login_signup_screendesign_demo:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.login_signup_screendesign_demo:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.login_signup_screendesign_demo:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.techBuddy:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.techBuddy:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.techBuddy:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.techBuddy:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.techBuddy:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.techBuddy:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.techBuddy:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.techBuddy:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.techBuddy:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.techBuddy:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.techBuddy:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -7534,7 +7544,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7544,11 +7554,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:showText
+          @attr name com.techBuddy:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7558,11 +7568,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:splitTrack
+          @attr name com.techBuddy:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7574,11 +7584,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:switchMinWidth
+          @attr name com.techBuddy:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7590,21 +7600,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:switchPadding
+          @attr name com.techBuddy:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:switchTextAppearance
+          @attr name com.techBuddy:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7616,11 +7626,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:thumbTextPadding
+          @attr name com.techBuddy:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7631,11 +7641,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:thumbTint
+          @attr name com.techBuddy:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7652,21 +7662,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.login_signup_screendesign_demo:thumbTintMode
+          @attr name com.techBuddy:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#track}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:track
+          @attr name com.techBuddy:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7677,11 +7687,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:trackTint
+          @attr name com.techBuddy:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7698,7 +7708,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.login_signup_screendesign_demo:trackTintMode
+          @attr name com.techBuddy:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TextAppearance.
@@ -7716,7 +7726,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.login_signup_screendesign_demo:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.techBuddy:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -7789,14 +7799,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.login_signup_screendesign_demo:textAllCaps
+          @attr name com.techBuddy:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a Toolbar.
@@ -7807,33 +7817,33 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.login_signup_screendesign_demo:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.login_signup_screendesign_demo:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.login_signup_screendesign_demo:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.login_signup_screendesign_demo:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.login_signup_screendesign_demo:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.login_signup_screendesign_demo:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.login_signup_screendesign_demo:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.login_signup_screendesign_demo:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.login_signup_screendesign_demo:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.login_signup_screendesign_demo:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.login_signup_screendesign_demo:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.login_signup_screendesign_demo:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.login_signup_screendesign_demo:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.login_signup_screendesign_demo:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.login_signup_screendesign_demo:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.login_signup_screendesign_demo:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.login_signup_screendesign_demo:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.login_signup_screendesign_demo:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.login_signup_screendesign_demo:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.login_signup_screendesign_demo:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.login_signup_screendesign_demo:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.login_signup_screendesign_demo:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.login_signup_screendesign_demo:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.login_signup_screendesign_demo:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.login_signup_screendesign_demo:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.login_signup_screendesign_demo:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.login_signup_screendesign_demo:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.techBuddy:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.techBuddy:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.techBuddy:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.techBuddy:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.techBuddy:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.techBuddy:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.techBuddy:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.techBuddy:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.techBuddy:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.techBuddy:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.techBuddy:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.techBuddy:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.techBuddy:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.techBuddy:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.techBuddy:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.techBuddy:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.techBuddy:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.techBuddy:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.techBuddy:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.techBuddy:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.techBuddy:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.techBuddy:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.techBuddy:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.techBuddy:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.techBuddy:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.techBuddy:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.techBuddy:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -7888,7 +7898,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7901,11 +7911,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.login_signup_screendesign_demo:buttonGravity
+          @attr name com.techBuddy:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7915,21 +7925,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:collapseContentDescription
+          @attr name com.techBuddy:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:collapseIcon
+          @attr name com.techBuddy:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7941,11 +7951,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetEnd
+          @attr name com.techBuddy:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7957,11 +7967,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetEndWithActions
+          @attr name com.techBuddy:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7973,11 +7983,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetLeft
+          @attr name com.techBuddy:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7989,11 +7999,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetRight
+          @attr name com.techBuddy:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8005,11 +8015,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetStart
+          @attr name com.techBuddy:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8021,21 +8031,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:contentInsetStartWithNavigation
+          @attr name com.techBuddy:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:logo
+          @attr name com.techBuddy:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8045,11 +8055,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:logoDescription
+          @attr name com.techBuddy:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8061,11 +8071,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:maxButtonHeight
+          @attr name com.techBuddy:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8075,31 +8085,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:navigationContentDescription
+          @attr name com.techBuddy:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:navigationIcon
+          @attr name com.techBuddy:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:popupTheme
+          @attr name com.techBuddy:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8109,21 +8119,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:subtitle
+          @attr name com.techBuddy:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:subtitleTextAppearance
+          @attr name com.techBuddy:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8134,11 +8144,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:subtitleTextColor
+          @attr name com.techBuddy:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#title}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8148,11 +8158,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:title
+          @attr name com.techBuddy:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8164,11 +8174,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:titleMargin
+          @attr name com.techBuddy:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8180,11 +8190,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:titleMarginBottom
+          @attr name com.techBuddy:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8196,11 +8206,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:titleMarginEnd
+          @attr name com.techBuddy:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8212,11 +8222,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:titleMarginStart
+          @attr name com.techBuddy:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8228,11 +8238,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:titleMarginTop
+          @attr name com.techBuddy:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8244,21 +8254,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:titleMargins
+          @attr name com.techBuddy:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:titleTextAppearance
+          @attr name com.techBuddy:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8269,7 +8279,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:titleTextColor
+          @attr name com.techBuddy:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -8280,9 +8290,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.login_signup_screendesign_demo:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.login_signup_screendesign_demo:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.login_signup_screendesign_demo:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.techBuddy:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.techBuddy:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.techBuddy:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -8307,7 +8317,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8319,11 +8329,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:paddingEnd
+          @attr name com.techBuddy:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8335,17 +8345,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:paddingStart
+          @attr name com.techBuddy:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.login_signup_screendesign_demo:theme
+          @attr name com.techBuddy:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -8355,8 +8365,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.login_signup_screendesign_demo:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.login_signup_screendesign_demo:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.techBuddy:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.techBuddy:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -8372,7 +8382,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -8383,11 +8393,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.login_signup_screendesign_demo:backgroundTint
+          @attr name com.techBuddy:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.login_signup_screendesign_demo.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.techBuddy.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -8403,7 +8413,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.login_signup_screendesign_demo:backgroundTintMode
+          @attr name com.techBuddy:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

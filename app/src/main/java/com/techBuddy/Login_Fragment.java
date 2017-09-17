@@ -26,6 +26,9 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+
 public class Login_Fragment extends Fragment implements OnClickListener {
 	private static View view;
 
@@ -36,6 +39,8 @@ public class Login_Fragment extends Fragment implements OnClickListener {
 	private static LinearLayout loginLayout;
 	private static Animation shakeAnimation;
 	private static FragmentManager fragmentManager;
+	private DatabaseReference mFirebaseDatabase;
+	private FirebaseDatabase mFirebaseInstance;
 
 	public Login_Fragment() {
 
@@ -179,6 +184,27 @@ public class Login_Fragment extends Fragment implements OnClickListener {
 			Toast.makeText(getActivity(), "Do Login.", Toast.LENGTH_SHORT)
 					.show();
 			// Open Main Dashboard screen
+
+			mFirebaseInstance = FirebaseDatabase.getInstance();
+
+			DatabaseReference myRef = mFirebaseInstance.getReference("users");
+
+			myRef.addListenerForSingleValueEvent(new ValueEventListener() {
+			@Override
+			public void onDataChange(DataSnapshot dataSnapshot) {
+
+				User user = dataSnapshot.getValue(User.class);
+
+				Log.d(TAG, "User name: " + user.getName() + ", email " + user.getEmail());
+			}
+
+			@Override
+			public void onCancelled(DatabaseError error) {
+				// Failed to read value
+				Log.w(TAG, "Failed to read value.", error.toException());
+			}
+		});
+
 			fragmentManager
 					.beginTransaction()
 					.setCustomAnimations(R.anim.right_enter, R.anim.left_out)

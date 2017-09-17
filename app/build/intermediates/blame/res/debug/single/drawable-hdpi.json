@@ -16,22 +16,6 @@
         "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/drawable-hdpi/user.png"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-hdpi/phone.png",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/drawable-hdpi/phone.png"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-hdpi/location.png",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/drawable-hdpi/location.png"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-hdpi/error.png",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/drawable-hdpi/error.png"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-hdpi/email.png",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/drawable-hdpi/email.png"
-    },
-    {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/location.png",
         "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/drawable-hdpi/location.png"
     },
@@ -44,28 +28,8 @@
         "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/drawable-hdpi/password.png"
     },
     {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-hdpi/confirm_password.png",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/drawable-hdpi/confirm_password.png"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-hdpi/password.png",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/drawable-hdpi/password.png"
-    },
-    {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/email.png",
         "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/drawable-hdpi/email.png"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/drawable-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-hdpi/user.png",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/drawable-hdpi/user.png"
-    },
-    {
-        "merged": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-hdpi/close.png",
-        "source": "/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/drawable-hdpi/close.png"
     },
     {
         "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/phone.png",

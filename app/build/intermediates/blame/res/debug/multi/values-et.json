@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 198,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/home/sourav/.android/build-cache/7b89f63a7a51ad4322a578fdde1fe31207f88ff4/output/res/values-et/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 198,
+                        "endOffset": 483
+                    }
+                }
+            }
+        ]
+    }
+]

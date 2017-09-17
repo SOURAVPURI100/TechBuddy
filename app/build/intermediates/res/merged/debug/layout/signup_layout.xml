@@ -30,7 +30,8 @@
         android:singleLine="true"
         android:textColor="@color/white"
         android:textColorHint="@color/white"
-        android:textSize="16sp" />
+        android:textSize="16sp"
+        android:text="test1"/>
 
     <View
         android:layout_width="fill_parent"
@@ -52,7 +53,8 @@
         android:singleLine="true"
         android:textColor="@color/white"
         android:textColorHint="@color/white"
-        android:textSize="16sp" />
+        android:textSize="16sp"
+        android:text="test1@test.test"/>
 
     <View
         android:layout_width="fill_parent"
@@ -74,7 +76,8 @@
         android:singleLine="true"
         android:textColor="@color/white"
         android:textColorHint="@color/white"
-        android:textSize="16sp" />
+        android:textSize="16sp"
+        android:text="123456789"/>
 
     <View
         android:layout_width="fill_parent"
@@ -96,7 +99,8 @@
         android:singleLine="true"
         android:textColor="@color/white"
         android:textColorHint="@color/white"
-        android:textSize="16sp" />
+        android:textSize="16sp"
+        android:text="test1"/>
 
     <View
         android:layout_width="fill_parent"
@@ -118,7 +122,8 @@
         android:singleLine="true"
         android:textColor="@color/white"
         android:textColorHint="@color/white"
-        android:textSize="16sp" />
+        android:textSize="16sp"
+        android:text="pwd1"/>
 
     <View
         android:layout_width="fill_parent"
@@ -140,7 +145,8 @@
         android:singleLine="true"
         android:textColor="@color/white"
         android:textColorHint="@color/white"
-        android:textSize="16sp" />
+        android:textSize="16sp"
+        android:text="pwd1"/>
 
     <CheckBox
         android:id="@+id/terms_conditions"

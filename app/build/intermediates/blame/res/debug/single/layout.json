@@ -1,194 +1,486 @@
 [
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/list_row.xml",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/list_row.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_mode_bar.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/signup_layout.xml",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/signup_layout.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_menu_layout.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\e0f7b4dd0b19c3bae7bdb84e47948e68b54a4cf4\\output\\res\\layout\\layout_snackbar_include.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/list_filterable_view.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/list_filterable_view.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_lines_media.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inset_toggle_chip.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\d2c3e155176997a33a68842e5d84b952f72bd204\\output\\res\\layout\\inset_toggle_chip.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create_post_activity.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\layout\\create_post_activity.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/forgotpassword_layout.xml",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/forgotpassword_layout.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/detailed_chip_view.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/detailed_chip_view.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detailed_chip_view.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\layout\\detailed_chip_view.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_layout.xml",
+        "source": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\src\\main\\res\\layout\\login_layout.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_bar_up_container.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/item_list_filterable.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/item_list_filterable.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_media.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgotpassword_layout.xml",
+        "source": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\src\\main\\res\\layout\\forgotpassword_layout.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_search_view.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\e7db0599ebb9908f73a37dd01b10c2b7680f666e\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_media_custom.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/main_screen.xml",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/main_screen.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_part_time.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/select_dialog_item_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
+        "source": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\src\\main\\res\\layout\\custom_toast.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_select_dialog_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toggle_chip.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\d2c3e155176997a33a68842e5d84b952f72bd204\\output\\res\\layout\\toggle_chip.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_bar_title_item.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_simple.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\04e8a19537be10a2420b70e4710295eace422a26\\output\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_grid_skill_item.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\layout\\custom_grid_skill_item.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_alert_dialog_title_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/login_layout.xml",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/login_layout.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_dialog_title_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/custom_toast.xml",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/layout/custom_toast.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_screen_content_include.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_alert_dialog_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/chip_view.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/chip_view.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_screen.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\layout\\main_screen.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/layout/notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/layout/chips_input.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/layout/chips_input.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\04e8a19537be10a2420b70e4710295eace422a26\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup_layout.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\layout\\signup_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\04e8a19537be10a2420b70e4710295eace422a26\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chips_input.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\layout\\chips_input.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\e0f7b4dd0b19c3bae7bdb84e47948e68b54a4cf4\\output\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_filterable_view.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\layout\\list_filterable_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_skill.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\layout\\activity_select_skill.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\04e8a19537be10a2420b70e4710295eace422a26\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chip_view.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\layout\\chip_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\04e8a19537be10a2420b70e4710295eace422a26\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile_view_page.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\layout\\fragment_profile_view_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_layout.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup_layout.xml",
+        "source": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\src\\main\\res\\layout\\signup_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_filterable.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\layout\\item_list_filterable.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgotpassword_layout.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\layout\\forgotpassword_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     }
 ]

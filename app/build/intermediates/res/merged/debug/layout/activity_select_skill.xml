@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    android:id="@+id/main_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<RelativeLayout
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/tech"
+        android:scaleType="centerCrop"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/add_skill"
+        android:text="Add Skills"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_marginTop="30dp"/>
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:padding="10dp"
+        android:theme="@style/Autocomplete"
+        android:textCursorDrawable="@null"
+        android:background="@drawable/rounded_corner"
+        android:hint="Type Skills"
+        android:textColorHint="@android:color/darker_gray"
+        android:textColor="@color/white"
+        android:gravity="center_vertical"
+        android:layout_below="@id/add_skill"/>
+
+
+
+    <com.google.android.flexbox.FlexboxLayout
+        android:id="@+id/flexbox_deleteable"
+        android:layout_margin="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:alignContent="space_around"
+        app:layout_flexGrow="4"
+        app:alignItems="flex_start"
+        app:dividerDrawable="@drawable/div"
+        app:flexWrap="wrap"
+        app:showDivider="middle"
+        android:layout_below="@id/autoCompleteTextView"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/button_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_keyboard_arrow_right_white_24dp"
+        android:layout_margin="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>
+    </android.support.design.widget.CoordinatorLayout>

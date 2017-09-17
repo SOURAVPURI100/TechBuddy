@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

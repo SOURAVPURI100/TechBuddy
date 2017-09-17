@@ -3,255 +3,39 @@
 
     <item
         is-multidex="false"
-        jar="/home/sourav/.android/build-cache/dd394746fd0d807a38677348d0174af45316aeb1/output/jars/classes.jar"
+        jar="/home/sourav/.android/build-cache/5974cd06bf8830aafadf8029ef3cb46d72a55ab0/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_e65f72da8a1ae607d5a2728835abd7d92620abdc.jar" />
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_50e361cd6fa22670f410c88ef4f0c0cca3a6a876.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/sourav/.android/build-cache/f2f619a781c029421522609ee56d8cb36baf6580/output/jars/classes.jar"
+        jar="/home/sourav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
-        <dex dex="/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/pre-dexed/debug/classes_f65044909c8a5296412079b5ea41da762f16cc7e.jar" />
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_d0a20a2a41b6ea325240b1f56bb6df5799888463.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/sourav/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jar="/home/sourav/.android/build-cache/e7db0599ebb9908f73a37dd01b10c2b7680f666e/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_a4f7a4c8292a1e69e82683cd8460923f49fe2a27.jar" />
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_dbf03f66a40f968a9a37293846245a62cee1c2ce.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/sourav/.android/build-cache/9015e9fadc317894d4de12e27a814a67f32dac4a/output/jars/classes.jar"
+        jar="/home/sourav/.android/build-cache/5974cd06bf8830aafadf8029ef3cb46d72a55ab0/output/jars/libs/internal_impl-22.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_af4759485d3c72c367cffbd8ed0432881ad00ac0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/4136021566f2ee8914c0eb14980c7d7f030e2c4f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_78ff78e1f5c28826231e75ad7a3d41c6bc921a4b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_a97168a4ea859ec5ff5271cdfb36903a08b59e6e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/afde25ca06d55fae99ead0fa256e1e9a2cb34877/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_5c5f1d6745b585c814bc1b02eee69493f58d66ee.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/0889e4f2bec507894fd657ea7071d4bf2c93f2ef/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
-        <dex dex="/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/pre-dexed/debug/classes_aee375508922e7ff7628fb58bd00c21f526e2928.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/89698adf8385d1d34abcfd4ccfb0c7a5199bb36a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_5d33ee8690dadfa58f1f1dfea33ae43e6cc9fe4a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/a0e63a49ceeee7394ce37209fefc60e11a4ccd23/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
-        <dex dex="/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/pre-dexed/debug/classes_da82dc5a76f1a650395c46b2a6425f10406f0bf3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/c9c5d397a298b5ffb230189bca898548176fe909/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_78be9a8bd0adecbf0a899f16cc0dbfd743dab80b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/7fd254422ef1f2ebee35ab77eb054b0a82e4672d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_844e3a91290b8ba649e8c5481e19f54d7b2cb33e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/83d5c3ee97abff569671486151dc86d3111f8792/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="518768f3200963fbfec652f498da2c9d39245234">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_e4c9df7962cb34e85e3fa2239231a27dd15f4290.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/7ecf386a9250d0600b80da4dcdce346f31bb40d1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_144f9d567e664a6cd18898dcb62d6c69110ca55f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/d332776fa6e658b6555b65b2f85bb39e99f3c809/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_1c85d1d72602ece619fa223fd584c874a5e6d7c3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/7b89f63a7a51ad4322a578fdde1fe31207f88ff4/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
-        <dex dex="/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/pre-dexed/debug/classes_51ae13ecc43221d2024f9ae0a8709d27952633d2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/1f014d92e64a5845ac0209c6216eb391463f983d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/pre-dexed/debug/classes_e1220022da3de13bd78a12d04ade156255ca0995.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="473e6f9710773cb0d30a96be4e3a4f8c5cce7e7c">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_1a275a9e043dc5d4849c1fedb3a3ebef872d6556.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/d08b39a8d05bc640b4dd6883e98a82a80147e270/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="5673281101aad13630046eeab1c172f83d675b07">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_6e604f20af5cc45ee5dbcd1c27edfb72aaf5c9cf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-lite/3.0.0/5dd2651003dcaafcdb73ff3c5230104dce215c19/protobuf-lite-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="5dd2651003dcaafcdb73ff3c5230104dce215c19">
-        <dex dex="/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/pre-dexed/debug/protobuf-lite-3.0.0_a8f005ef451c9c4ad884eba87e590e3c87a630ed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_a3574ebdac3f66d66182f8e10129815c328cefda.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/e8429fb605932eb089ffd0c979653d4589740682/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="94fca868854457ede6df15c902938468c71d579e">
-        <dex dex="/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/pre-dexed/debug/classes_15cb50a8253ad36a58835a73d776213bf72e134f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/b222da0722ef4108e22e23b7982d6be976152805/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
-        <dex dex="/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/pre-dexed/debug/classes_ed77b41b5ccf76d021d5ac520040eb43f06d6092.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/b8d59395697f88c48328fe6d4b09bb45b49c882a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
-        <dex dex="/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/pre-dexed/debug/classes_c35d702e7ea5fb2a0e1384cf3eb66a8569897b7b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_71b79e19716d096b9ffc00dbc31dfd64381b7a7a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/3dc93ad347f8d5f615df4b9ea01e6fff932d1ad3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_14b142be9015caab6d641e1994010b4cce81e4c9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/af10a2758d07d2b363f5cf177c81d7907b94eab1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_e2fec558e7a8c709891c8b44914224b7d00447bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/sourav/.android/build-cache/034bb4406ebf957dc57e71dfd04524cb59c65761/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
-        <dex dex="/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/pre-dexed/debug/classes_f7bb0804ee4f254432efa30935168c4f39532c62.jar" />
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/sourav/Documents/Android_Projects/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_c5724b758c217b5272e68a43d3fc631f95de23dd.jar" />
     </item>
 
 </items>

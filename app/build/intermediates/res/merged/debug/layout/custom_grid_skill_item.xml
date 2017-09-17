@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/skill_relative"
+    android:background="@drawable/rounded_corner_color_custom">
+
+        <TextView
+            android:id="@+id/skill_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Skill"
+            android:textColor="@color/white"
+            android:padding="10dp"
+            android:layout_marginLeft="5dp"
+            android:textSize="18sp"/>
+        <Button
+            android:id="@+id/skill_remove"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginRight="10dp"
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/ic_clear_white_24dp"/>
+    </RelativeLayout>

@@ -1,42 +1,82 @@
 [
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/color-v23/abc_tint_spinner.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/color-v23/abc_tint_switch_thumb.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/color-v23/abc_btn_colored_text_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/color-v23/abc_tint_seek_thumb.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/color-v23/abc_tint_edittext.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/color-v23/abc_tint_default.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     }
 ]

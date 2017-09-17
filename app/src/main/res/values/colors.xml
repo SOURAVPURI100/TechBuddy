@@ -4,7 +4,17 @@
     <color name="background_color">#4da6ff</color>
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
+    <color name="blue">#FF597CB3</color>
     <color name="white_greyish">#EEEEEE</color>
     <color name="button_selectorcolor">#9E9E9E</color>
-
+    <string-array name="skill_colors">
+        <item name="pink">#ca6f9c</item>
+        <item name="red">#d56a6a</item>
+        <item name="orange">#eba259</item>
+        <item name="yellow">#f4d869</item>
+        <item name="green">#80da80</item>
+        <item name="cyan">#80cbc4</item>
+        <item name="azure">#9fa8da</item>
+        <item name="blue">#597cb3</item>
+    </string-array>
 </resources>

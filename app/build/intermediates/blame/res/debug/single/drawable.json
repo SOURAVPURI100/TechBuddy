@@ -1,178 +1,418 @@
 [
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner_color_custom.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\drawable\\rounded_corner_color_custom.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/avatar.png",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/drawable/avatar.png"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\e7db0599ebb9908f73a37dd01b10c2b7680f666e\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/bg_chip_view_opened.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/drawable/bg_chip_view_opened.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/notification_bg_low.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\placeholder.png",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\drawable\\placeholder.png"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/notification_bg.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/notification_tile_bg.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/placeholder.png",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/drawable/placeholder.png"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\e7db0599ebb9908f73a37dd01b10c2b7680f666e\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/loginbutton_selector.xml",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/drawable/loginbutton_selector.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/notification_icon_background.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_on.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\d2c3e155176997a33a68842e5d84b952f72bd204\\output\\res\\drawable\\toggle_on.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/text_selector.xml",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/drawable/text_selector.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_vector_test.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\e0f7b4dd0b19c3bae7bdb84e47948e68b54a4cf4\\output\\res\\drawable\\snackbar_background.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/project.png",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/drawable/project.png"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/logo.png",
-        "source": "/home/sourav/Documents/GitHub/TechBuddy/app/src/main/res/drawable/logo.png"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\div.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\drawable\\div.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginbutton_selector.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\drawable\\loginbutton_selector.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/bg_chip_view.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/drawable/bg_chip_view.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_chip_view.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\drawable\\ripple_chip_view.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/home/sourav/.android/build-cache/6f42164d1141da8c5becf3d1851c4f5a80deebb5/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chip_view_opened.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\drawable\\bg_chip_view_opened.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginbutton_selector.xml",
+        "source": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\src\\main\\res\\drawable\\loginbutton_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_image.png",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\drawable\\profile_image.png"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inset_toggle_button.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\d2c3e155176997a33a68842e5d84b952f72bd204\\output\\res\\drawable\\inset_toggle_button.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\project.png",
+        "source": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\src\\main\\res\\drawable\\project.png"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner_color_red.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\drawable\\rounded_corner_color_red.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\e7db0599ebb9908f73a37dd01b10c2b7680f666e\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chip_view.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\drawable\\bg_chip_view.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_off.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\d2c3e155176997a33a68842e5d84b952f72bd204\\output\\res\\drawable\\toggle_off.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\project.png",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\drawable\\project.png"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner_color.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\drawable\\rounded_corner_color.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\d2c3e155176997a33a68842e5d84b952f72bd204\\output\\res\\drawable\\toggle_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar.png",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\drawable\\avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\e0f7b4dd0b19c3bae7bdb84e47948e68b54a4cf4\\output\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\home\\sourav\\.android\\build-cache\\7f1b4a7d61f0242dca4eca512d6e9ded08b9e126\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_selector.xml",
+        "source": "C:\\home\\sourav\\Documents\\Android_Projects\\Login_SignUp_ScreenDesgin_Demo\\app\\src\\main\\res\\drawable\\text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\76e6bcd232d789b40cb6cc76fc70cb608bf2b31a\\output\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_selector.xml",
+        "source": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\src\\main\\res\\drawable\\text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\939c22dc4d08bdf8e24a0a5f7a0b9c9c3afbc8d8\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     }
 ]

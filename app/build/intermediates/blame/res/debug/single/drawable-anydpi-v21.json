@@ -1,18 +1,26 @@
 [
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_cancel_grey_24dp.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/drawable-anydpi-v21/ic_cancel_grey_24dp.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\close_x.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\d2c3e155176997a33a68842e5d84b952f72bd204\\output\\res\\drawable-anydpi-v21\\close_x.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_person_white_24dp.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/drawable-anydpi-v21/ic_person_white_24dp.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_person_white_24dp.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\drawable-anydpi-v21\\ic_person_white_24dp.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_cancel_white_24dp.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/drawable-anydpi-v21/ic_cancel_white_24dp.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_cancel_white_24dp.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\drawable-anydpi-v21\\ic_cancel_white_24dp.xml"
     },
     {
-        "merged": "/home/sourav/Documents/GitHub/TechBuddy/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_person_outline_white_24dp.xml",
-        "source": "/home/sourav/.android/build-cache/0eb5cd8a09b705032045801fb0d16a5c7863c08b/output/res/drawable-anydpi-v21/ic_person_outline_white_24dp.xml"
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_person_outline_white_24dp.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\drawable-anydpi-v21\\ic_person_outline_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\cross.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\d2c3e155176997a33a68842e5d84b952f72bd204\\output\\res\\drawable-anydpi-v21\\cross.xml"
+    },
+    {
+        "merged": "C:\\Users\\premh\\Documents\\GitHub\\TechBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_cancel_grey_24dp.xml",
+        "source": "C:\\Users\\premh\\.android\\build-cache\\632377c75012a7f988cc899ac13c4e264839ef2c\\output\\res\\drawable-anydpi-v21\\ic_cancel_grey_24dp.xml"
     }
 ]

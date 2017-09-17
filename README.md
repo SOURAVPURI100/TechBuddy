@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# TechBuddy
-TechBuddy
-=======
+
 # TechBuddy
 TechBuddy
 
@@ -14,4 +11,4 @@ Create a Post: User can create a new post to look for partners which all other u
 Profile View: User can see other people's profiles if they are public by the owner.
 Notification: If user has a notification from some potential match, then he/she will be notified.
 Note: - Our application is not entirely complete but we have build major parts for our application.
->>>>>>> 920c473f465f2a1f7d524951910c269e47a9cd54
+
